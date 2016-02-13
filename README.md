@@ -1,2 +1,2 @@
 # test01
-This page is test for swk.
+This repository is test for swk.
